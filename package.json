@@ -1,0 +1,25 @@
+
+{
+  "name": "hubot-bleach",
+  "version": "1.0.0",
+  "description": "WI cannot save you without holding my sword. But wearing it means, I cannot hold you.",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Drunkar/hubot-bleach"
+  },
+  "keywords": [
+    "hubot",
+    "joke"
+  ],
+  "author": "Drunkar",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/Drunkar/hubot-bleach/issues"
+  },
+  "homepage": "https://github.com/Drunkar/hubot-bleach"
+}
