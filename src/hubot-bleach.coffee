@@ -478,29 +478,29 @@ BLEACH_POEMS = [ \
 \n- HEAR,FEAR,HERE",
 
 "美しさとは、
-\nそこに何もないこと,
-
+\nそこに何もないこと
+\n
 \n- DEATH IN VISION",
 
 "すきだよ
-\nしぬほど,
-
+\nしぬほど
+\n
 \n- MARCHING OUT THE ZOMBIES",
 
 "断ち斬るものは
-\n命だけかい,
-
+\n命だけかい
+\n
 \n- SORRY I AM STRONG",
 
 "御先
 \n真黒
-\n真逆様,
-
+\n真逆様
+\n
 \n- BLACK",
 
 "毒々しくって、
-\n眩々するだろ？,
-
+\n眩々するだろ？
+\n
 \n- THE ORDINA RY PEACE",
 
 "暴いたものは
